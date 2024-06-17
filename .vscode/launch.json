@@ -37,6 +37,13 @@
             "request": "launch",
             "mainClass": "Casting",
             "projectName": "JavaPractice1_ba5d1665"
+        },
+        {
+            "type": "java",
+            "name": "Operators",
+            "request": "launch",
+            "mainClass": "Operators",
+            "projectName": "JavaPractice1_ba5d1665"
         }
     ]
 }

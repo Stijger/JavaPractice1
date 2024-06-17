@@ -1,6 +1,8 @@
 public class Casting {
-    public static void main() {
-
+    public static void main(String[] args) {
+        wideningCasting();
+        narrowingCasting();
+        realLifeExample();
     }
 
     public static void wideningCasting() {
@@ -19,5 +21,19 @@ public class Casting {
 
         System.out.println(myDouble);   // Outputs 9.78
         System.out.println(myInt);      // Outputs 9
+    }
+
+    public static void realLifeExample() {
+        // set maximum score
+        int maxScore = 500;
+
+        //actual score of user
+        int userScore = 423;
+
+        /* Calculate the percantage of the user's score in relation to the maximum available score.
+        Convert userScore to float to make sure that the division is accurate */
+        float percentage = (float) userScore / maxScore * 100.0f;
+
+        System.out.println("User's percentage is " + percentage);
     }
 }

@@ -30,6 +30,13 @@
             "request": "launch",
             "mainClass": "dataTypes",
             "projectName": "JavaPractice1_ba5d1665"
+        },
+        {
+            "type": "java",
+            "name": "Casting",
+            "request": "launch",
+            "mainClass": "Casting",
+            "projectName": "JavaPractice1_ba5d1665"
         }
     ]
 }

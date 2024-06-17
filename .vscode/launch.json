@@ -23,6 +23,13 @@
             "request": "launch",
             "mainClass": "Variables",
             "projectName": "JavaPractice1_ba5d1665"
+        },
+        {
+            "type": "java",
+            "name": "dataTypes",
+            "request": "launch",
+            "mainClass": "dataTypes",
+            "projectName": "JavaPractice1_ba5d1665"
         }
     ]
 }

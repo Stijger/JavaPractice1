@@ -26,6 +26,5 @@ public class Main {
     System.out.println(3); //Single line comment
     System.out.println(3 + 5);
     System.out.println(2 * 5);
-
   }
 }

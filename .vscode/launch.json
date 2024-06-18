@@ -44,6 +44,13 @@
             "request": "launch",
             "mainClass": "Operators",
             "projectName": "JavaPractice1_ba5d1665"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "JavaPractice1_ba5d1665"
         }
     ]
 }

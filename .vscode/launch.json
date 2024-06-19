@@ -65,6 +65,13 @@
             "request": "launch",
             "mainClass": "tutorial.javaBooleans",
             "projectName": "JavaPractice1_ba5d1665"
+        },
+        {
+            "type": "java",
+            "name": "ifElse",
+            "request": "launch",
+            "mainClass": "tutorial.ifElse",
+            "projectName": "JavaPractice1_ba5d1665"
         }
     ]
 }

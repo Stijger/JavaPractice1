@@ -72,6 +72,13 @@
             "request": "launch",
             "mainClass": "tutorial.ifElse",
             "projectName": "JavaPractice1_ba5d1665"
+        },
+        {
+            "type": "java",
+            "name": "switchCase",
+            "request": "launch",
+            "mainClass": "tutorial.switchCase",
+            "projectName": "JavaPractice1_ba5d1665"
         }
     ]
 }

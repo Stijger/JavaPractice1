@@ -1,8 +1,10 @@
 package tutorial;
 
 public class javaBooleans {
-    public static void main() {
-
+    public static void main(String[] args) {
+        booleans();
+        booeleanExpression();
+        realLifeExamples();
     }
 
     public static void booleans() {

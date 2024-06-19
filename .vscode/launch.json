@@ -14,42 +14,49 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
-            "mainClass": "Main",
+            "mainClass": "tutorial.Main",
             "projectName": "JavaPractice1_ba5d1665"
         },
         {
             "type": "java",
             "name": "Variables",
             "request": "launch",
-            "mainClass": "Variables",
+            "mainClass": "tutorial.Variables",
             "projectName": "JavaPractice1_ba5d1665"
         },
         {
             "type": "java",
             "name": "dataTypes",
             "request": "launch",
-            "mainClass": "dataTypes",
+            "mainClass": "tutorial.dataTypes",
             "projectName": "JavaPractice1_ba5d1665"
         },
         {
             "type": "java",
             "name": "Casting",
             "request": "launch",
-            "mainClass": "Casting",
+            "mainClass": "tutorial.Casting",
             "projectName": "JavaPractice1_ba5d1665"
         },
         {
             "type": "java",
             "name": "Operators",
             "request": "launch",
-            "mainClass": "Operators",
+            "mainClass": "tutorial.Operators",
             "projectName": "JavaPractice1_ba5d1665"
         },
         {
             "type": "java",
             "name": "Strings",
             "request": "launch",
-            "mainClass": "Strings",
+            "mainClass": "tutorial.Strings",
+            "projectName": "JavaPractice1_ba5d1665"
+        },
+        {
+            "type": "java",
+            "name": "javaMath",
+            "request": "launch",
+            "mainClass": "tutorial.javaMath",
             "projectName": "JavaPractice1_ba5d1665"
         }
     ]

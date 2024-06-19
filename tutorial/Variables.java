@@ -1,3 +1,4 @@
+package tutorial;
 public class Variables {
     @SuppressWarnings("unused")
     public static void main(String[] args) {

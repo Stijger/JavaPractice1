@@ -58,6 +58,13 @@
             "request": "launch",
             "mainClass": "tutorial.javaMath",
             "projectName": "JavaPractice1_ba5d1665"
+        },
+        {
+            "type": "java",
+            "name": "javaBooleans",
+            "request": "launch",
+            "mainClass": "tutorial.javaBooleans",
+            "projectName": "JavaPractice1_ba5d1665"
         }
     ]
 }

@@ -79,6 +79,14 @@
             "request": "launch",
             "mainClass": "tutorial.switchCase",
             "projectName": "JavaPractice1_ba5d1665"
-        }
+        },
+        {
+            "type": "java",
+            "name": "whileLoop",
+            "request": "launch",
+            "mainClass": "tutorial.whileLoop",
+            "projectName": "JavaPractice1_ba5d1665"
+        },
+
     ]
 }

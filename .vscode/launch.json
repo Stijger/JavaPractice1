@@ -87,6 +87,13 @@
             "mainClass": "tutorial.whileLoop",
             "projectName": "JavaPractice1_ba5d1665"
         },
+        {
+            "type": "java",
+            "name": "forLoop",
+            "request": "launch",
+            "mainClass": "tutorial.forLoop",
+            "projectName": "JavaPractice1_ba5d1665"
+        },
 
     ]
 }
